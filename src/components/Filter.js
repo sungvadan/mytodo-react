@@ -1,7 +1,6 @@
-import {Component} from 'react'
+import { Component } from 'react'
 
-class Filter extends Component
-{
+class Filter extends Component {
 
 }
 
